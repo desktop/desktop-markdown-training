@@ -1,30 +1,33 @@
+# 3. Fun with Markdown
 
-- [Markdown resources](#markdown-resources)
-- [Markdown links](#markdown-links)
-- [Markdown headers](#markdown-headers)
-- [Markdown Images](#markdown-images)
-- [Commit your Octocat](#commit-your-octocat)
-- [Markdown quotes](#markdown-quotes)
-- [Lists and formatting with Markdown](#lists-and-formatting-with-markdown)
-  - [Basic bullets](#basic-bullets)
-  - [Basic formatting](#basic-formatting)
-- [Numbered lists](#numbered-lists)
-- [Task lists](#task-lists)
-- [Creating tables](#creating-tables)
-- [Add a table of contents](#add-a-table-of-contents)
-- [Commit your Changes](#commit-your-changes)
-- [Make your pull request](#make-your-pull-request)
-- [Get a code review!](#get-a-code-review)
+- [3. Fun with Markdown](#3-fun-with-markdown)
+  - [3.1. Markdown resources](#31-markdown-resources)
+  - [3.2. Markdown links](#32-markdown-links)
+  - [3.3. Markdown headers](#33-markdown-headers)
+  - [3.4. Markdown Images](#34-markdown-images)
+  - [3.5. Commit your Octocat](#35-commit-your-octocat)
+  - [3.6. Markdown quotes](#36-markdown-quotes)
+  - [3.7. Lists and formatting with Markdown](#37-lists-and-formatting-with-markdown)
+    - [3.7.1. Basic bullets](#371-basic-bullets)
+    - [3.7.2. Basic formatting](#372-basic-formatting)
+  - [3.8. Numbered lists](#38-numbered-lists)
+  - [3.9. Task lists](#39-task-lists)
+  - [3.10. Creating tables](#310-creating-tables)
+  - [3.11. Add a table of contents](#311-add-a-table-of-contents)
+  - [3.12. Commit your Changes](#312-commit-your-changes)
+  - [3.13. Make your pull request](#313-make-your-pull-request)
+  - [3.14. Get a code review!](#314-get-a-code-review)
+- [4. Congratulations! You did it!](#4-congratulations-you-did-it)
  ⬅️ [**Back to Contribute**](2-contribute.md)
 
-## Markdown resources
+## 3.1. Markdown resources
 
 - [Quickstart guide to writing on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Markdown Guide](https://www.markdownguide.org/getting-started/)
 - [Markdown All In One documentation](https://markdown-all-in-one.github.io/docs/guide/#features)
 
-## Markdown links
+## 3.2. Markdown links
 
 Let's link your GitHub handle in the header of your markdown file.
 
@@ -40,7 +43,7 @@ Once done, this will look like
 # [@rmw](https://github.com/rmw)'s contributions!
 ```
 
-## Markdown headers
+## 3.3. Markdown headers
 
 In the [last section](2-contribute.md), we created a markdown file and added a [header](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings).
 
@@ -56,7 +59,7 @@ Let's add a secondary header to our markdown file. Below your first title, type:
 ## My favorite Octocat
 ```
 
-## Markdown Images
+## 3.4. Markdown Images
 
 Who doesn't love Ocotcats? Let's find out favorite.
 
@@ -76,7 +79,7 @@ Now below the header we just added, let's add an image. Replace the URL with the
 ![Cherryontop-o-cat is my favorite](https://octodex.github.com/images/cherryontop-o-cat.png)
 ```
 
-## Commit your Octocat
+## 3.5. Commit your Octocat
 
 - Go to GitHub Desktop
 - Add a commit message, such as "Added my favorite Octocat"
@@ -88,7 +91,7 @@ Now below the header we just added, let's add an image. Replace the URL with the
 - Click on `Commits`
 - See that your latest commit is in your pull request!
 
-## Markdown quotes
+## 3.6. Markdown quotes
 
 Starting a line with `>` will indent quotes.
 
@@ -105,13 +108,13 @@ It'll look something like:
 -- Alice Walker
 ```
 
-## Lists and formatting with Markdown
+## 3.7. Lists and formatting with Markdown
 
 Have you ever played that ice breaker game `Two Truths and a Lie`? Basically, you write down three things about yourself. Two of them are true and one is a lie. Then people guess which is the lie.
 
 Let's make a list of our two truths and a lie.
 
-### Basic bullets
+### 3.7.1. Basic bullets
 
 Using `-` we can make a list of items in Markdown.
 
@@ -123,7 +126,7 @@ Using `-` we can make a list of items in Markdown.
 - I love reading
 ```
 
-### Basic formatting
+### 3.7.2. Basic formatting
 
 Pick your favorite item and let's **bold it**. Because we are using the `Markdown All In One` extension, you can just highlight the text and select `command` + `b`.
 
@@ -157,7 +160,7 @@ Now let's strikeout our lie by surround the text with `~~`
 
 ![bullets with strikethrough, bold, and italic](images/two-truths-and-lie.png)
 
-## Numbered lists
+## 3.8. Numbered lists
 
 As you'd probably expect, you can just start a list with a number and make an ordered list.
 
@@ -172,7 +175,7 @@ List out your top three breakfast items or any other category you choose.
 3. Oatmeal with pecans and blueberries
 ```
 
-## Task lists
+## 3.9. Task lists
 
 GitHub has task or to-do lists build into it's Markdown. You can create these lists by starting each line with `- [ ]`. When the task if complete, you can mark it as done by adding an x: `-[x]`.
 
@@ -189,7 +192,7 @@ Go ahead and share your new years resolutions or any other task list you'd like.
 ```
 ![tasklist](images/tasklist.png)
 
-## Creating tables
+## 3.10. Creating tables
 
 Markdown has a simple table format.
 
@@ -231,7 +234,7 @@ These tables can be a little bit hard to read when all the text is jumbled toget
 
 ![markdown table](images/table.png)
 
-## Add a table of contents
+## 3.11. Add a table of contents
 
 Markdown All In One helps us make a table of contents! And it will keep it up to date over time.
 
@@ -241,7 +244,7 @@ Press `command` + `shift` + `p` and select `Markdown All In One: Create Table of
 
 ![table of contents](images/toc.png)
 
-## Commit your Changes
+## 3.12. Commit your Changes
 
 - Go to GitHub Desktop
 - Add a commit message, such as "Added my favorite Octocat"
@@ -253,7 +256,7 @@ Press `command` + `shift` + `p` and select `Markdown All In One: Create Table of
 - Click on `Commits`
 - See that your latest commit is in your pull request!
 
-## Make your pull request
+## 3.13. Make your pull request
 
 - On github.com on your pull request, scroll down to where it says `This pull request is still a work in progress`
 <br />![pr is wip](images/ready-for-review.png)
@@ -266,7 +269,7 @@ Press `command` + `shift` + `p` and select `Markdown All In One: Create Table of
   - What could we do better for next time?
 - Click `Update comment`
 
-## Get a code review!
+## 3.14. Get a code review!
 
 We will break into zoom rooms and you and your pair will each code review each others changes.
 
@@ -283,7 +286,7 @@ We will break into zoom rooms and you and your pair will each code review each o
 
 🎉 🥳 🎉 🥳 🎉 🥳 🎉 🥳 🎉 🥳 🎉 🥳 🎉 🥳 🎉 🥳 🎉 🥳 
 
-# Congratulations! You did it!
+# 4. Congratulations! You did it!
 
 🎉 🥳 🎉 🥳 🎉 🥳 🎉 🥳 🎉 🥳 🎉 🥳 🎉 🥳 🎉 🥳 🎉 🥳 
 

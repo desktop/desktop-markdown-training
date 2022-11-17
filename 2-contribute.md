@@ -1,14 +1,15 @@
-# Contribute!
+# 2. Contribute!
 
-- [1. ⬇️ Download this repository](#1-️-download-this-repository)
-- [2. 🌳 Create a branch](#2--create-a-branch)
-- [3. 📝 Create a markdown file](#3--create-a-markdown-file)
-- [4. Create a Pull Request](#4-create-a-pull-request)
-- [5. :arrow_right: NEXT: Fun with Markdown](#5-arrow_right-next-fun-with-markdown)
+- [2. Contribute!](#2-contribute)
+  - [2.1. ⬇️ Download this repository](#21-️-download-this-repository)
+  - [2.2. 🌳 Create a branch](#22--create-a-branch)
+  - [2.3. 📝 Create a markdown file](#23--create-a-markdown-file)
+  - [2.4. Create a Pull Request](#24-create-a-pull-request)
+  - [2.5. :arrow_right: NEXT: Fun with Markdown](#25-arrow_right-next-fun-with-markdown)
 
  ⬅️ [**Back to Set Up**](1-set-up.md)
 
- ## 1. ⬇️ Download this repository
+ ## 2.1. ⬇️ Download this repository
 
  First, we need to download or [`clone`](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) as it's called in `git speak`, this repository.
 
@@ -21,7 +22,7 @@
 - When GitHub Desktop opens, click `Clone`
 <br />![Clone in GitHub Desktop](images/clone-button-url-mac.png)
 
-## 2. 🌳 Create a branch
+## 2.2. 🌳 Create a branch
 
 - In the top navigation bar, click `Current Branch: main`
 - Click on the `Branches` tab if you aren't already there
@@ -36,7 +37,7 @@
 - Click `main` in the repository page on github.com to see the list of all branches
   <br />![Branch on github.com](images/branch-on-dotcom.png)
 
-## 3. 📝 Create a markdown file
+## 2.3. 📝 Create a markdown file
 
 - From within your branch, click `Open the repository in your external editor`
 <br />![Open in VS Code](images/open-in-vscode.png)
@@ -59,7 +60,7 @@
 - 🎉 Now we can see our updates as we type them!
 <br />![Markdown preview](images/md-preview.png)
   
-## 4. Create a Pull Request
+## 2.4. Create a Pull Request
 
 - Open GitHub Desktop
 - See that our changes are visible  
@@ -81,7 +82,7 @@
 - 🎉 Tada! Your draft PR has been created!
 <br />![draft pr created](images/draft-pr-created.png)
 
- ## 5. :arrow_right: [NEXT: Fun with Markdown](3-markdown-fun.md)
+ ## 2.5. :arrow_right: [NEXT: Fun with Markdown](3-markdown-fun.md)
 
  Now for the fun stuff! Let's [start learning and playing with markdown](3-markdown-fun.md)!
 

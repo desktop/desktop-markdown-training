@@ -1,19 +1,19 @@
-## 1. 🔽 Set up
+# 1. 🔽 Set up
 
 Let's get everything we will need installed and set up.
 
 - [1. 🔽 Set up](#1--set-up)
-- [2. Download GitHub Desktop](#2-download-github-desktop)
-- [3. Download VS Code](#3-download-vs-code)
-- [4. Install VS Code Extensions](#4-install-vs-code-extensions)
-  - [4.1. Install Markdown All In One](#41-install-markdown-all-in-one)
-  - [4.2. Install :emojisense:](#42-install-emojisense)
-  - [4.3. Install Code Spell Checker](#43-install-code-spell-checker)
-- [5. :arrow_right: NEXT: Contributing to Open Source](#5-arrow_right-next-contributing-to-open-source)
+  - [1.1. Download GitHub Desktop](#11-download-github-desktop)
+  - [1.2. Download VS Code](#12-download-vs-code)
+  - [1.3. Install VS Code Extensions](#13-install-vs-code-extensions)
+    - [1.3.1. Install Markdown All In One](#131-install-markdown-all-in-one)
+    - [1.3.2. Install :emojisense:](#132-install-emojisense)
+    - [1.3.3. Install Code Spell Checker](#133-install-code-spell-checker)
+  - [1.4. :arrow_right: NEXT: Contributing to Open Source](#14-arrow_right-next-contributing-to-open-source)
 
  ⬅️ [**BACK to README**](README.md)
 
-## 2. Download GitHub Desktop
+## 1.1. Download GitHub Desktop
 
 [GitHub Desktop](https://desktop.github.com/) helps you focus on what matters instead of fighting git.
 
@@ -24,7 +24,7 @@ Let's get everything we will need installed and set up.
 
 ![Download GitHub Desktop](/images/desktop-download.png)
 
-## 3. Download VS Code
+## 1.2. Download VS Code
 
 [VS Code](https://code.visualstudio.com/) (or Visual Studio Code) is a popular code editing tool.
 
@@ -35,11 +35,11 @@ Let's get everything we will need installed and set up.
 
 ![Download VS Code](images/vscode-download.png)
 
-## 4. Install VS Code Extensions
+## 1.3. Install VS Code Extensions
 
 VS Code extensions allow you customize your editor and gives you a [marketplace](https://marketplace.visualstudio.com/) of options.
 
-### 4.1. Install Markdown All In One
+### 1.3.1. Install Markdown All In One
 
 - Open VS Code
 - On the far left side, hover over the icon and look for "Extensions." The icon looks like: 
@@ -49,7 +49,7 @@ VS Code extensions allow you customize your editor and gives you a [marketplace]
 <br />![Markdown All In One Icon](images/markdown-all-in-one-icon.png)
 - Click "Install"
 
-### 4.2. Install :emojisense:
+### 1.3.2. Install :emojisense:
 
 - Open VS Code
 - On the far left side, hover over the icon and look for "Extensions." The icon looks like: 
@@ -59,7 +59,7 @@ VS Code extensions allow you customize your editor and gives you a [marketplace]
 <br />![Emojisense Icon](images/emojisense-icon.png)
 - Click "Install"
 
-### 4.3. Install Code Spell Checker
+### 1.3.3. Install Code Spell Checker
 
 - Open VS Code
 - On the far left side, hover over the icon and look for "Extensions." The icon looks like: 
@@ -70,6 +70,6 @@ VS Code extensions allow you customize your editor and gives you a [marketplace]
 - Click "Install"
 
 
- ## 5. :arrow_right: [NEXT: Contributing to Open Source](2-contribute.md)
+ ## 1.4. :arrow_right: [NEXT: Contributing to Open Source](2-contribute.md)
 
 Let's get down to business 👷‍♀️ and [contribute to open source](2-contribute.md)!
