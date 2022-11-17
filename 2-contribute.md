@@ -82,5 +82,5 @@
 
  ## 5. :arrow_right: [NEXT: Fun with Markdown](3-markdown-fun.md)
 
- Now for the fun stuff! Let's [start learning and playing with markdown](3-markdown-fun.md!
+ Now for the fun stuff! Let's [start learning and playing with markdown](3-markdown-fun.md)!
 
