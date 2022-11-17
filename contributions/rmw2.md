@@ -9,7 +9,7 @@
   - [A few of my favorite things](#a-few-of-my-favorite-things)
 
 
-## 3My favorite Octocat 
+## My favorite Octocat 
 
 ![My favorite octocat](https://octodex.github.com/images/NUX_Octodex.gif)
 
