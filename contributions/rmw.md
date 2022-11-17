@@ -1,4 +1,4 @@
-# @rmw's contribution!
+# [@rmw](https://github.com/rmw)'s contribution!
 
 ## My favorite Octocat
 
