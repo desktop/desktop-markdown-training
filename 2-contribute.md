@@ -16,9 +16,9 @@
  - Go to [github.com/desktop/desktop-markdown-training](https://github.com/desktop/desktop-markdown-training)
  - Click `<> Code`
  - Click `Open with GitHub Desktop`
-![Open with GitHub Desktop](images/open-with-desktop.png)
+<br />![Open with GitHub Desktop](images/open-with-desktop.png)
 - When GitHub Desktop opens, click `Clone`
-![Clone in GitHub Desktop](images/clone-button-url-mac.png)
+<br />![Clone in GitHub Desktop](images/clone-button-url-mac.png)
 
 ## 2. 🌳 Create a branch
 
