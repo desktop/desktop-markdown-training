@@ -72,4 +72,4 @@ VS Code extensions allow you customize your editor and gives you a [marketplace]
 
  ## 5. :arrow_right: [NEXT: Contributing to Open Source](2-contribute.md)
 
- Now for the fun stuff! Let's [contribute to open source](2-contribute.md)!
+Let's get down to business 👷‍♀️ and [contribute to open source](2-contribute.md)!

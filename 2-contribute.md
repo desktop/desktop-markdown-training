@@ -2,6 +2,8 @@
 - [1. ⬇️ Download this repository](#1-️-download-this-repository)
 - [2. 🌳 Create a branch](#2--create-a-branch)
 - [3. 📝 Create a markdown file](#3--create-a-markdown-file)
+- [4. Create a Pull Request](#4-create-a-pull-request)
+- [5. :arrow_right: NEXT: Fun with Markdown](#5-arrow_right-next-fun-with-markdown)
 
  ⬅️ [**Back to Set Up**](1-set-up.md)
 
@@ -56,7 +58,29 @@
 - 🎉 Now we can see our updates as we type them!
 <br />![Markdown preview](images/md-preview.png)
   
-  
+## 4. Create a Pull Request
 
-  
+- Open GitHub Desktop
+- See that our changes are visible  
+- At the bottom left, type a commit message title, such as `@githubhandle's first commit!`
+- Click `Commit to yourbranchname`
+<br />![commit changes](images/commit-changes.png)
+- And we've made our first commit! 🥳
+- Click `Push origin` to save our changes on github.com
+<br />![publish branch](images/push-origin.png)
+- Click `Create Pull Request`
+<br />![create pr](images/create-pr.png)
+- This will take you to github.com
+- Answer the first question in the pull request template -- and use markdown if you can! (Don't worry, though, we will play with a lot more)
+<br />![pr description](images/pr-description1.png)
+- Click on the **arrow next to Create pull request**
+- Select `Create draft pull request`
+  <br />![create draft pr](images/create-draft-pr.png)
+- Click `Create draft pull request`
+- 🎉 Tada! Your draft PR has been created!
+<br />![draft pr created](images/draft-pr-created.png)
+
+ ## 5. :arrow_right: [NEXT: Fun with Markdown](3-markdown-fun.md)
+
+ Now for the fun stuff! Let's [start learning and playing with markdown](3-markdown-fun.md!
 
