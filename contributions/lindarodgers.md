@@ -6,14 +6,14 @@
 > 'Today is a new day.  Let's rejoice and be glad in it.'
 
 ## Two Truths and a lie
-
-- i play basketball
+**
+- ~~i play basketball~~**
 - i have 3 kids
 - i love running
 
 
 ## Breakfast
-1. Cheerios, banana, yogurt]
+1. Cheerios, banana, yogurt
 2. Eggs, Bacon, toast
 3. cold pizza
 
@@ -27,5 +27,4 @@
 | ---- | -----: | --------:  |
 | 🍨 | ice cream | mint chocolate chip|
 | 🌴 | vacation | Colorado |
-  
   
