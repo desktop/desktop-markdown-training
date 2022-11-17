@@ -1,3 +1,4 @@
-# @davebunte's contribution!
+# [@davebunte](https://github.com/davebunte)'s contribution!
 
-Add text.
+## My favorite Octocat
+![Inflatocat](https://octodex.github.com/images/inflatocat.png)
