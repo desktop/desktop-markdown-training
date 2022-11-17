@@ -1,3 +1,7 @@
+## 1. 🔽 Set up
+
+Let's get everything we will need installed and set up.
+
 - [1. 🔽 Set up](#1--set-up)
 - [2. Download GitHub Desktop](#2-download-github-desktop)
 - [3. Download VS Code](#3-download-vs-code)
@@ -8,10 +12,6 @@
 - [5. :arrow_right: NEXT: Contributing to Open Source](#5-arrow_right-next-contributing-to-open-source)
 
  ⬅️ [**BACK to README**](README.md)
-
-## 1. 🔽 Set up
-
-Let's get everything we will need installed and set up. 
 
 ## 2. Download GitHub Desktop
 
