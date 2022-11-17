@@ -1,3 +1,5 @@
-# @rmw's second contribution
+# [@rmw](https://github.com/rmw)'s second contribution
 
-Add text.
+## My favorite Octocat
+
+![My fav octocat](https://octodex.github.com/images/kimonotocat.png)
